@@ -1,0 +1,13 @@
+* Mon Dec 10 2012 Marko Saukko <marko.saukko@jollamobile.com> - 1.9.4
+- Updated packaging.
+
+* Thu Nov 10 2011 Marko Saukko <marko.saukko@cybercom.com> - 1.9.4
+- Updated to version 1.9.4 and added .yaml for spectacle.
+- Enabled test builds.
+
+* Thu May 12 2011 Ulf Hofemeier <ulf.hofemeier@linux.intel.com> - 1.9.3
+- Updated license tag in RPM spec file to say BSD-style single-clause
+
+* Wed Dec 01 2010 Ryan Ware <ryan.r.ware@intel.com> - 1.9.3
+- initial packaging
+- FEA#9093
